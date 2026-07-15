@@ -241,6 +241,17 @@ Concentrated curcuminoids combined with a piperine delivery system can induce in
 ================================================================================
 
 ------------------------------
+## SECTION X: WHAT ARE THE RISKS OF TAKING HALDEX 1950MG?
+Before you decide to join this study, it is important to understand the risks and side effects associated with HaldEX 1950mg. Because this product contains a concentrated extract of turmeric combined with black pepper extract to increase absorption, it enters your bloodstream much faster and in higher amounts than standard grocery store turmeric spice.
+If you take more than the recommended dose, or if your body clears it slowly, you may experience the following side effects:
+
+* Blood Pressure Drops and Fainting: This supplement relaxes your blood vessels. This can cause your blood pressure to drop suddenly, especially when you stand up quickly. You may feel dizzy, lightheaded, or experience vertigo (a spinning sensation). In severe cases, this drop in blood pressure can cause you to pass out (faint).
+* Stomach and Intestinal Upset: HaldEX 1950mg can irritate the lining of your stomach and intestines. You may experience nausea, stomach cramps, heartburn, vomiting, or diarrhea.
+* Headaches: Some participants in previous studies using high doses of concentrated turmeric extracts have reported severe or lingering headaches.
+* Risks with Other Medications (Drug Interactions): The black pepper extract in this formula changes how your liver processes certain medications. If you take this supplement alongside regular prescription drugs, it could cause those drugs to build up to dangerous levels in your body. This is especially true for blood thinners, heart medications, or chronic pain relievers.
+
+What you must do: You must tell the study doctor about every medication, over-the-counter pill, or herbal supplement you are currently taking. If you begin to feel sick to your stomach, get a severe headache, or feel dizzy and lightheaded at any point during this study, sit or lie down immediately and call the study staff right away.
+------------------------------
 
 [1] [https://www.frontiersin.org](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1438040/full)
 

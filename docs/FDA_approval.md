@@ -1,4 +1,5 @@
 HaldEX 1950mg Regulatory Claims Repository
+------------------------------------------
 
 **Document ID:** CL-TF-100-2026\
 **Product Reference:** HaldEX 1950mg (Curcuma longa Complex)\

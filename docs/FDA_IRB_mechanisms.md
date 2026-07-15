@@ -50,6 +50,46 @@ Epigenetic & Genetic Control
 
 * * * * *
 
+Here is the formal Washout Period Clause drafted for your IRB Clinical Protocol document. It integrates the pharmacokinetic metrics derived from the multi-dose simulation and addresses the enzymatic risks associated with the bioavailability enhancer.
+
+* * * * *
+
+SECTION 7.X: CLINICAL COMPLIANCE AND CRITICAL WASHOUT INTERVAL
+--------------------------------------------------------------
+
+7.X.1 Protocol Cessation Strategy and Washout Timeline
+------------------------------------------------------
+
+Upon formal withdrawal or scheduled completion of the HaldEX 1950mg treatment regimen (defined as the final administration at Hour 72), a mandatory washout interval is required before a subject can transition to restricted concurrent therapies or exit the active pharmacokinetic oversight envelope.
+
+-   Primary Elimination Half-Life ($t_{1/2}$): Based on single-compartment open kinetic modeling using a standard first-order elimination rate constant ($k_e = 0.3\ \text{hr}^{-1}$), the active curcuminoid complex exhibits an endogenous plasma half-life of approximately 2.31 hours.
+-   99% Systemic Clearance Horizon ($C_{\text{washout}}$): To achieve a strict 99% reduction from the established steady-state peak concentration ($C_{\text{ss,max}} = 5.85\ \text{mg/L}$) down to safe baseline threshold values (C(t) ≤ 0.058 mg/L), mathematical models dictate a minimum clearance interval calculated as follows:\
+    $$\Delta t_{\text{clearance}} = \frac{\ln(100)}{k_e} = \frac{4.605}{0.3} \approx 15.35\ \text{hours}$$
+-   Mandatory Washout Period: To ensure absolute consumer safety and clear statistical baselines, the protocol mandates a rounded sixteen (16) hour structural washout window following the final dose.
+
+7.X.2 Drug Interaction and Hepatic Enzyme Caution
+-------------------------------------------------
+
+Principal Investigators must note that the *BioPerine* (standardized piperine extract) matrix within HaldEX 1950mg acts as a potent temporary down-regulator of intestinal and hepatic phase-I metabolizing pathways---specifically the CYP3A4 enzyme system---as well as the efflux transporter P-glycoprotein (P-gp).
+
+Because these inhibitory dynamics remain actively engaged in parallel with systemic compound retention, the clearance window acts as an extended buffer.
+
+```
+[ Hour 72: Final HaldEX Dose ] ───► [ 0.0h to 16.0h: Active Clearance Block ] ───► [ Hour 88+: Safe Reintroduction ]
+                                     * Plasma levels decay to <0.058 mg/L           * Hepatic enzymes return to normal
+                                     * CYP3A4 & P-gp inhibition remains active      * Restricted medications allowed
+
+```
+
+7.X.3 Clinical Directives for Physicians & Investigators
+--------------------------------------------------------
+
+1.  Medication Restrictions: Subjects are strictly prohibited from initiating, adjusting, or reintroducing any narrow therapeutic index (NTI) prescription pharmaceuticals metabolized via the CYP3A4 pathway during the 16-hour post-dosing interval.
+2.  Adverse Event Monitoring: Clinical staff must monitor subjects for lingering symptoms of systemic vasodilation, including lightheadedness or acute dizziness, through the first 4 half-lives (approx. 9.2 hours) of the washout phase.
+3.  Follow-Up Biomarker Draw: Any final baseline biomarker assays (including systemic cytokine or C-Reactive Protein serum panels) intended to reflect the post-treatment state should be scheduled *immediately at or after* the 16-hour completion horizon to avoid lingering analytical interference.
+
+* * * * *
+
 [1] [https://www.frontiersin.org](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1438040/full)
 
 [2] [https://esmed.org](https://esmed.org/MRA/mra/article/view/2248)

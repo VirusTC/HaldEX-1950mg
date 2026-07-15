@@ -253,6 +253,92 @@ If you take more than the recommended dose, or if your body clears it slowly, yo
 What you must do: You must tell the study doctor about every medication, over-the-counter pill, or herbal supplement you are currently taking. If you begin to feel sick to your stomach, get a severe headache, or feel dizzy and lightheaded at any point during this study, sit or lie down immediately and call the study staff right away.
 ------------------------------
 
+## SECTION Y: BENEFITS OF PARTICIPATING IN THIS STUDY
+There is no guarantee that you will receive any direct health benefits from participating in this research study. [1] 
+However, by participating, you will help researchers and physicians better understand how concentrated Curcuma longa (turmeric) extracts impact the human immune network, cellular pathways, and full-body inflammatory balance. The data gathered from your participation may help in the development of future nutritional protocols or clinical guidelines for other individuals seeking supportive immune care.
+------------------------------
+## SECTION Z: VOLUNTARY PARTICIPATION AND YOUR RIGHT TO WITHDRAW
+Your participation in this research study is entirely voluntary. You can choose whether or not to join. If you do decide to participate, you are free to change your mind and change it at any time. [2, 3, 4, 5] 
+
+* No Penalty for Leaving: You can stop participating at any point during the study without any penalty. Choosing not to join or deciding to leave early will not affect your relationship with your regular doctors, your medical care, or any legal benefits to which you are otherwise entitled. [6, 7, 8, 9, 10] 
+* How to Withdraw: If you decide to leave the study, please notify the study doctor or research staff immediately. This allows the medical team to guide you through a safe exit process and arrange a final safety check, ensuring your blood pressure and stomach function are completely stable. [11] 
+* Use of Your Data: If you choose to withdraw from the study, the research team may still use the health data and blood samples collected from you before your withdrawal to maintain the scientific integrity of the trial, unless you explicitly request otherwise in writing. [12, 13] 
+* Removal by the Investigator: The study doctor or the sponsoring company may also remove you from the study at any time without your consent. This can happen if they believe continuing the trial poses a risk to your health, if you experience a severe side effect (such as fainting or significant drop in blood pressure), if you fail to follow study instructions, or if the study is stopped entirely. [14, 15, 16, 17] 
+
+------------------------------
+
+[1] [https://cdn.clinicaltrials.gov](https://cdn.clinicaltrials.gov/large-docs/28/NCT03558828/ICF_008.pdf)
+[2] [https://www.chsbuffalo.org](https://www.chsbuffalo.org/wp-content/uploads/2024/07/CHS-Consent-Form-template.pdf)
+[3] [https://www.mayo.edu](https://www.mayo.edu/research/documents/heartandvoicestudyconsentform/doc-20565928)
+[4] [https://cdn.clinicaltrials.gov](https://cdn.clinicaltrials.gov/large-docs/39/NCT03360539/ICF_000.pdf)
+[5] [https://cdn.clinicaltrials.gov](https://cdn.clinicaltrials.gov/large-docs/08/NCT04901208/ICF_000.pdf)
+[6] [https://cdn.clinicaltrials.gov](https://cdn.clinicaltrials.gov/large-docs/39/NCT03360539/ICF_000.pdf)
+[7] [https://uen.pressbooks.pub](https://uen.pressbooks.pub/researchmethodscriminaljusticestudents/back-matter/appendix/)
+[8] [https://www.hhs.gov](https://www.hhs.gov/ohrp/sachrp-committee/recommendations/attachment-a-minimal-risk-informed-consent-models/index.html)
+[9] [https://www.unk.edu](https://www.unk.edu/academics/gradstudies/irb/consent-assent/voluntary-participation-withdrawal.php)
+[10] [https://cdn.clinicaltrials.gov](https://cdn.clinicaltrials.gov/large-docs/04/NCT07342504/ICF_000.pdf)
+[11] [https://supporttrials.org](https://supporttrials.org/trust/)
+[12] [https://clinicaltrialsuk.org.uk](https://clinicaltrialsuk.org.uk/what-is-informed-consent-in-clinical-trials/)
+[13] [https://cdn.clinicaltrials.gov](https://cdn.clinicaltrials.gov/large-docs/22/NCT03454022/ICF_002.pdf)
+[14] [https://catalisquebec.com](https://catalisquebec.com/FIC-Clauses-standardisees-CER-des-ESSS-English)
+[15] [https://www.tibdn.ca](https://www.tibdn.ca/covid-19/file/nygh/form-adults/at_download/file)
+[16] [https://cdn.clinicaltrials.gov](https://cdn.clinicaltrials.gov/large-docs/01/NCT04096001/ICF_000.pdf)
+[17] [https://iims.uthscsa.edu](https://iims.uthscsa.edu/ce/wp-content/uploads/sites/18/2023/02/HS-Training-Material-and-Quiz.pdf)
+
+## SECTION Z: CONFIDENTIALITY AND DATA PRIVACY
+Your privacy is very important to us. We will make every effort to protect your personal information and keep it confidential. However, absolute confidentiality cannot be guaranteed.
+
+* Coding of Your Data: To protect your identity, all your personal information, medical history, and lab results will be assigned a unique code number. Your name, address, and other direct identifiers will not appear on any research forms or study data sheets. The master key linking your name to your code number will be kept in a separate, password-protected electronic file accessible only to the Principal Investigator and authorized research staff. [1, 2, 3, 4, 5] 
+* Data Storage: All physical documents (like this signed form) will be kept in locked filing cabinets inside restricted-access research offices. Electronic data will be stored on secure, encrypted servers that meet standard medical privacy regulations. [6] 
+* Who May Review Your Records: Authorized representatives from the sponsoring company, the Institutional Review Board (IRB) overseeing this trial, and federal regulatory agencies—such as the Food and Drug Administration (FDA)—may inspect the study records. This is done to ensure the study is being conducted safely and correctly. These individuals are legally required to maintain your confidentiality. [7, 8, 9, 10, 11] 
+* Publication of Results: The results of this study may be published in medical journals or presented at scientific meetings. If this happens, your identity will remain completely anonymous. No identifying details or personal data will ever be made public. [12, 13] 
+* Data Retention: Your coded study data will be securely maintained by the research institution for a minimum of two (2) years following the formal closure of the trial, after which it will be permanently destroyed or anonymized. [14] 
+
+------------------------------
+## DOCUMENT SIGNATURE BLOCK## Subject Statement of Consent
+By signing below, I confirm that I have read this entire Informed Consent Form (or it has been read to me). I have had the opportunity to ask questions, and all my questions have been answered to my satisfaction. I understand the risks, potential benefits, side effects, and washout requirements of taking HaldEX 1950mg. I freely and voluntarily agree to participate in this research study. I will receive a copy of this signed and dated form for my personal records. [15, 16, 17, 18, 19] 
+
+_______________________________________
+Printed Name of Subject
+
+_______________________________________      __________________
+Signature of Subject                         Date (MM/DD/YYYY)
+
+## Person Obtaining Consent Statement
+I have fully explained the nature, purpose, requirements, and known risks of this research study to the participant named above. I have answered all questions asked by the participant to the best of my ability. [20] 
+
+_______________________________________
+Printed Name of Person Obtaining Consent
+
+_______________________________________      __________________
+Signature of Person Obtaining Consent         Date (MM/DD/YYYY)
+
+------------------------------
+
+[1] [https://cdn.clinicaltrials.gov](https://cdn.clinicaltrials.gov/large-docs/25/NCT06309225/ICF_001.pdf)
+[2] [https://www.vagelos.columbia.edu](https://www.vagelos.columbia.edu/file/45390/download?token=RGyX9Spd)
+[3] [https://cdn.clinicaltrials.gov](https://cdn.clinicaltrials.gov/large-docs/00/NCT06147700/ICF_000.pdf)
+[4] [https://www.vagelos.columbia.edu](https://www.vagelos.columbia.edu/file/45389/download?token=_J8pBmgc)
+[5] [https://www.vagelos.columbia.edu](https://www.vagelos.columbia.edu/file/45390/download?token=RGyX9Spd)
+[6] [https://www.firstconnectinsurance.com](https://www.firstconnectinsurance.com/blog/acord-cancellation-form-acord-35-guide/)
+[7] [https://www.washington.edu](https://www.washington.edu/research/hsd/guidance/consent/design/)
+[8] [https://cdn.clinicaltrials.gov](https://cdn.clinicaltrials.gov/large-docs/11/NCT04332211/ICF_003.pdf)
+[9] [https://oklahoma.gov](https://oklahoma.gov/content/dam/ok/en/health/health2/documents/irb-sampleconsentform.pdf)
+[10] [https://www.unr.edu](https://www.unr.edu/research-integrity/program-areas/human-research/human-research-protection-policy-manual/330-informed-consent-greater-than-minimal-risk-research)
+[11] [https://uwsurgery.org](https://uwsurgery.org/wp-content/uploads/2020/06/Protein-biomarker-information-sheet-v.41.pdf)
+[12] [https://cdn.clinicaltrials.gov](https://cdn.clinicaltrials.gov/large-docs/73/NCT07328373/ICF_002.pdf)
+[13] [https://www.clinicalmonster.com](https://www.clinicalmonster.com/research/US%20CVC%20KCH%20Consent.pdf)
+[14] [https://www.uj.ac.za](https://www.uj.ac.za/wp-content/uploads/2021/11/edu-how-to-complete-the-application-template.pdf)
+[15] [https://beamsbermuda.org](https://beamsbermuda.org/beams-clinic-consent-form-for-collection-and-use-of-personal-information/)
+[16] [https://www.southeastern.edu](http://www.southeastern.edu/wp-content/uploads/omni-misc-files/admin/inst_rb/forms/assets/consent_example.pdf)
+[17] [https://www.rwjbh.org](https://www.rwjbh.org/documents/monmouth-medical-center/MMC-COVID-19-Vaccine-Consent-Form.pdf)
+[18] [https://form.jotform.com](https://form.jotform.com/233334625498665)
+[19] [https://cdn.clinicaltrials.gov](https://cdn.clinicaltrials.gov/large-docs/34/NCT03213834/ICF_001.pdf)
+[20] [https://www.swccd.edu](https://www.swccd.edu/administration/institutional-research-and-planning/_files/swccd-irrb-sample-informed-consent-form.pdf)
+[21] [https://legal-resources.uslegalforms.com](https://legal-resources.uslegalforms.com/i/irb-approval-education)
+[22] [https://wwwapp.bumc.bu.edu](https://wwwapp.bumc.bu.edu/ocr/ClinicalResearchNewsletter/article.aspx?article=318)
+
+
 [1] [https://www.frontiersin.org](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1438040/full)
 
 [2] [https://esmed.org](https://esmed.org/MRA/mra/article/view/2248)

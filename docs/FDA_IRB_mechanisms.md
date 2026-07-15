@@ -148,7 +148,99 @@ Because these inhibitory dynamics remain actively engaged in parallel with syste
 2.  Adverse Event Monitoring: Clinical staff must monitor subjects for lingering symptoms of systemic vasodilation, including lightheadedness or acute dizziness, through the first 4 half-lives (approx. 9.2 hours) of the washout phase.
 3.  Follow-Up Biomarker Draw: Any final baseline biomarker assays (including systemic cytokine or C-Reactive Protein serum panels) intended to reflect the post-treatment state should be scheduled *immediately at or after* the 16-hour completion horizon to avoid lingering analytical interference.
 
-* * * * *
+## SECTION 8.X: ADVERSE EVENT (AE) REGULATION AND SPECIFIC GRADING SCALES
+To accurately classify toxicities associated with excessive systemic concentrations of HaldEX 1950mg (specifically vasodilation-driven hypotension, vertigo, cephalalgia, and gastrointestinal hyper-motility), investigators must utilize the specific criteria detailed below.
+These definitions are adapted directly from the Common Terminology Criteria for Adverse Events (CTCAE) v5.0/v6.0 frameworks to isolate safety trends during this trial.
+------------------------------
+## 8.X.1 Hypotension and Syncope Grading Scale
+Because the active curcuminoids within HaldEX 1950mg possess natural calcium channel antagonist properties, overdose risks include acute drops in Mean Arterial Pressure (MAP) and Cerebral Perfusion Pressure (CPP).
+
+                            [ Blood Pressure Drop Detected ]
+                                           │
+                    Did the drop cause a transient loss of consciousness?
+                       /                                       \
+                    (Yes)                                      (No)
+                     /                                           \
+       [ Grade 3: Syncope ]                        [ Evaluate Severity ]
+                                                   * Grade 1: Asymptomatic
+                                                   * Grade 2: Symptomatic / Oral Meds
+                                                   * Grade 4: Life-Threatening
+
+
+* Grade 1 (Mild): Asymptomatic drop in blood pressure; systolic blood pressure (SBP) decrease of <20 mmHg from baseline; no medical intervention required.
+* Grade 2 (Moderate): Symptomatic hypotension; subject reports orthostatic dizziness or lightheadedness; responsive to oral fluid replacement or temporary recumbency; minimally disrupts standard Activities of Daily Living (ADLs).
+* Grade 3 (Severe): Severe symptoms; requires intravenous (IV) fluid resuscitation; causes syncope (transient loss of consciousness); completely disrupts standard ADLs.
+* Grade 4 (Life-Threatening): Catastrophic cardiovascular collapse; hemodynamically unstable; requires emergent vasopressor support (e.g., norepinephrine) to sustain vital organ perfusion.
+
+------------------------------
+## 8.X.2 Gastrointestinal (GI) Distress Grading Scale
+Concentrated curcuminoids combined with a piperine delivery system can induce intense local mucosal irritation, hyper-peristalsis, and chemical gastritis if safe pharmacokinetic ceilings are crossed.
+
+* Grade 1 (Mild): Mild nausea with transient decrease in appetite; or <4 loose stools per day over baseline; minimal, localized abdominal discomfort; no antiemetic or antidiarrheal interventions required.
+* Grade 2 (Moderate): Moderate nausea limiting oral intake; or 4 to 6 loose stools per day over baseline; intermittent vomiting; abdominal pain interfering with eating; responsive to standard over-the-counter interventions (e.g., loperamide, ondansetron).
+* Grade 3 (Severe): Severe vomiting or persistent nausea preventing any oral nutritional intake; or ≥ 7 loose stools per day over baseline; severe, constant abdominal cramping; requires IV hydration or hospitalization; limits self-care ADLs.
+* Grade 4 (Life-Threatening): Severe bowel perforation, toxic megacolon, or hemorrhagic gastritis secondary to severe gastrointestinal mucosal erosion; requires emergent surgical or critical care intervention.
+
+------------------------------
+## 8.X.3 Protocol Safety Action Triggers
+
+| Event Severity | Required Protocol Action | FDA / IRB Notification Timeline |
+|---|---|---|
+| Any Grade 1 Event | Document in CRF; continue protocol dosing unchanged. | Include in standard annual/final trial report. |
+| Any Grade 2 Event | Hold HaldEX 1950mg dosing for 24 hours until symptoms return to ≤ Grade 1. Resume at 50% dose. | Document locally; report to IRB at standard review. |
+| Any Grade 3 Event | Permanently discontinue subject from study; initiate immediate clinical supportive care. | Report to Sponsor and IRB within 5 business days. |
+| Any Grade 4 Event | Categorized as a Serious Adverse Event (SAE); stop trial operations immediately; unblind if necessary. | Expedited report to FDA Review Division & IRB within 24 hours. |
+
+------------------------------
+## APPENDIX B: ADVERSE EVENT REPORTING FORM (TEMPLATE)
+
+================================================================================
+                    HALDEX 1950_MG CLINICAL TRIAL: CRITICAL CASE REPORT FORM
+================================================================================
+[ Subject ID: ___________ ]   [ Site ID: ___________ ]   [ Date of Report: __/__/____ ]
+--------------------------------------------------------------------------------
+1. ADVERSE EVENT DIAGNOSIS (Check primary symptom cluster):
+   [ ] Hypotension / Orthostatic Drops
+   [ ] Syncope (Loss of consciousness)
+   [ ] Cephalalgia (Severe Headache)
+   [ ] Vertigo / Dizziness
+   [ ] Nausea / Gastrointestinal Distress
+   [ ] Diarrhea / Hyper-peristalsis
+
+2. EVENT CHRONOLOGY:
+   * Date & Time of Final HaldEX 1950mg Dose:    __/__/____  at  _____:_____ (24hr)
+   * Onset Date & Time of Adverse Event:        __/__/____  at  _____:_____ (24hr)
+   * Resolution Date & Time (if applicable):    __/__/____  at  _____:_____ (24hr)
+
+3. PHYSIOLOGICAL METRICS RECORDED AT ONSET:
+   * Blood Pressure: ______ / ______ mmHg   * Heart Rate: ______ bpm
+   * Core Body Temp: ______ °C               * Respiratory Rate: ______ br/min
+
+4. EVENT SEVERITY GRADING (Per Section 8.X protocol scales):
+   [ ] GRADE 1 (Mild)         [ ] GRADE 2 (Moderate)
+   [ ] GRADE 3 (Severe)       [ ] GRADE 4 (Life-Threatening)
+
+5. CAUSALITY ASSESSMENT / ATTRIBUTION TO HALDEX 1950_MG:
+   [ ] Definite (Clear timeline matching PK peak concentration, no alternatives)
+   [ ] Probable (Matches known mechanisms, alternative causes unlikely)
+   [ ] Possible (Could be supplement or concurrent environmental stressor)
+   [ ] Unrelated (Confirmed alternative clinical cause)
+
+6. INTERVENTION & OUTCOME:
+   [ ] No treatment given
+   [ ] Oral fluid replacement / Rest
+   [ ] IV Fluid Resuscitation (Volume administered: __________ mL)
+   [ ] Pharmacological Intervention (Specify drug & dose): _________________________
+   [ ] Hospitalization required
+
+7. INVESTIGATOR SIGNATURE:
+   I certify that the clinical assessments noted on this form accurately reflect 
+   the source medical records of the trial subject.
+   
+   PI Name: ___________________________ Signature: ___________________________
+================================================================================
+
+------------------------------
 
 [1] [https://www.frontiersin.org](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1438040/full)
 

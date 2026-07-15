@@ -48,7 +48,71 @@ Epigenetic & Genetic Control
 -   MicroRNA (miRNA) Regulation: Upregulates tumor-suppressive miRNAs (like miR-15, miR-16, and miR-301a-3p) while downregulating oncogenic miRNAs, essentially rewriting the cell's expression profile to fight disease.
 -   Nrf2 Activation: Enhances the Nrf2/ARE antioxidant pathway, boosting the host cell's internal production of glutathione to neutralize tissue-damaging Reactive Oxygen Species (ROS) during infection. [2, 7, 14, 22, 32]
 
-* * * * *
+## SECTION 5.X: SUBJECT ELIGIBILITY CRITERIA (HEPATIC & CONCURRENT MEDICATION)
+To ensure subject safety and isolate the pharmacokinetic effects of HaldEX 1950mg, candidates must meet all inclusion criteria and present none of the exclusion criteria during screening. The presence of a standardized piperine matrix (BioPerine) mandates strict boundaries on hepatic performance and concurrent pharmaceutical use. [1] 
+------------------------------
+## 5.X.1 Hepatic Function Inclusion Criteria
+To ensure adequate metabolic capacity for the elimination of concentrated curcuminoids, candidates must demonstrate stable, standard baseline liver function. Screening labs must confirm:
+
+* Serum Alanine Aminotransferase (ALT): ≤ 1.5 × the Upper Limit of Normal (ULN).
+* Serum Aspartate Aminotransferase (AST): ≤ 1.5 × the Upper Limit of Normal (ULN).
+* Total Bilirubin: ≤ 1.2 mg/dL (unless isolated Gilbert’s Syndrome is documented).
+* Serum Albumin: ≥ 3.5 g/dL to maintain standard plasma protein-binding parameters. [2, 3, 4, 5, 6] 
+
+------------------------------
+## 5.X.2 Hepatic & Biliary Exclusion Criteria [7] 
+Candidates presenting with any history or current clinical evidence of hepatic or biliary pathway impairment shall be excluded from enrollment. [8, 9] 
+
+                          [ Subject Screening ]
+                                    │
+          Does candidate exhibit active biliary or liver disease?
+                    (e.g., Gallstones, Cirrhosis, Cholangitis)
+                     /                                     \
+                  (Yes)                                    (No)
+                   /                                         \
+       [ EXCLUDE FROM STUDY ]                      [ Proceed to Med Review ]
+
+Exclusion criteria include:
+
+* Cholelithiasis or Biliary Obstruction: History or active diagnosis of gallstones, bile duct obstruction, or extrahepatic biliary disease. (Curcumin stimulates gallbladder contraction via cholecystokinin release, which can trigger acute biliary colic or obstruction).
+* Active Liver Disease: Acute or chronic hepatitis (A, B, C, or autoimmune), hepatic cirrhosis (Child-Pugh Class A, B, or C), or non-alcoholic steatohepatitis (NASH) with advanced fibrosis. [10, 11, 12, 13] 
+* History of Drug-Induced Liver Injury (DILI): Any prior documented idiosyncratic liver injury secondary to dietary supplements or natural botanicals. [14] 
+
+------------------------------
+## 5.X.3 Concurrent Medication Exclusion Criteria
+Because the piperine component of HaldEX 1950mg downregulates intestinal and hepatic CYP3A4 enzymes and P-glycoprotein (P-gp) efflux pumps, candidates taking the following classes of narrow therapeutic index (NTI) or highly sensitive medications are strictly excluded:
+
+* Anticoagulants & Antiplatelets: Concurrent use of warfarin, novel oral anticoagulants (NOACs/DOACs: apixaban, rivaroxaban), or clopidogrel. (Curcuminoids possess inherent anti-aggregant properties on platelets; pairing this with CYP-mediated clearance delays causes a compounding risk of spontaneous hemorrhage).
+* Cardiovascular & NTI Medications: Active prescriptions for digoxin, amiodarone, or quinidine. (P-gp suppression can rapidly drive systemic digoxin levels into toxic ranges).
+* Immunosuppressants: Current therapy utilizing cyclosporine, tacrolimus, or sirolimus.
+* Chemotherapeutic & Antineoplastic Agents: Use of any small-molecule tyrosine kinase inhibitors (TKIs) or cytotoxic agents cleared primarily via CYP3A4.
+* Statins (HMG-CoA Reductase Inhibitors): High-dose atorvastatin (≥ 40 mg), simvastatin (≥ 20 mg), or lovastatin. (Suppression of organic anion transporting polypeptides [OATPs] and CYP3A4 by curcumin/piperine increases systemic statin exposure, elevating risks of myalgia or rhabdomyolysis).
+* Chronic NSAID Therapy: Daily therapeutic use of ibuprofen (> 1200 mg/day), naproxen, or aspirin for chronic pain management. [15] 
+
+------------------------------
+## 5.X.4 Washout Requirements for Prior Subscriptions
+Candidates currently taking a restricted medication who wish to participate must undergo a formal wash-out period under the direct supervision of their treating physician prior to baseline testing. The required interval is calculated using the specific pharmaceutical's terminal half-life: [16, 17] 
+$$\text{Required Pre-Study Washout} \ge 5 \times t_{1/2}\ \text{(of the restricted medication)}$$ 
+No restricted medication may be stopped solely for study enrollment if doing so compromises the subject's primary medical stability.
+------------------------------
+
+[1] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC11043146/)
+[2] [https://clinicaltrials.gov](https://clinicaltrials.gov/study/NCT01520220)
+[3] [https://cdek.pharmacy.purdue.edu](https://cdek.pharmacy.purdue.edu/trial/NCT01984047/)
+[4] [https://clinicaltrials.gov](https://clinicaltrials.gov/study/NCT00365417)
+[5] [https://clinicaltrials.gov](https://clinicaltrials.gov/study/NCT02770378)
+[6] [https://clinicaltrials.gov](https://clinicaltrials.gov/study/NCT04893109)
+[7] [https://cdn.clinicaltrials.gov](https://cdn.clinicaltrials.gov/large-docs/06/NCT04059406/Prot_SAP_001.pdf)
+[8] [https://trials.lilly.com](https://trials.lilly.com/en-US/trial/282996)
+[9] [https://cdek.pharmacy.purdue.edu](https://cdek.pharmacy.purdue.edu/trial/NCT01984047/)
+[10] [https://clinicaltrials.gov](https://clinicaltrials.gov/study/NCT01195415)
+[11] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC9741846/)
+[12] [https://clinicaltrials.gov](https://clinicaltrials.gov/study/NCT03666871)
+[13] [https://www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK169787/)
+[14] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC4655161/)
+[15] [https://clinicaltrials.gov](https://clinicaltrials.gov/study/NCT00231829)
+[16] [https://clinicaltrials.gov](https://clinicaltrials.gov/study/NCT03759639)
+[17] [https://cdn.clinicaltrials.gov](https://cdn.clinicaltrials.gov/large-docs/87/NCT03381287/SAP_001.pdf)
 
 SECTION 7.X: CLINICAL COMPLIANCE AND CRITICAL WASHOUT INTERVAL
 --------------------------------------------------------------

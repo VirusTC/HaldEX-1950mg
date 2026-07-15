@@ -1,4 +1,5 @@
 IRB (Institutional Review Board) Clinical History
+-------------------------------------------------
 
 While it does not have a Compassionate Use footprint, *Curcuma longa* has an extensive **IRB history** spanning the last several decades in American academic and clinical research. [[1](https://journalofethics.ama-assn.org/article/history-and-role-institutional-review-boards-local-and-central-irbs-single-mission/2009-04)]
 

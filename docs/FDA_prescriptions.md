@@ -1,4 +1,3 @@
-```
 # TRACK_COMPLIANCE.md
 
 ## Document Overview
@@ -127,5 +126,3 @@ Mandatory Regulatory Warning
 The following block must legally accompany any public, consumer-facing, or retail implementation of the right-hand column:
 
 > *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.
-
-```

@@ -50,10 +50,6 @@ Epigenetic & Genetic Control
 
 * * * * *
 
-Here is the formal Washout Period Clause drafted for your IRB Clinical Protocol document. It integrates the pharmacokinetic metrics derived from the multi-dose simulation and addresses the enzymatic risks associated with the bioavailability enhancer.
-
-* * * * *
-
 SECTION 7.X: CLINICAL COMPLIANCE AND CRITICAL WASHOUT INTERVAL
 --------------------------------------------------------------
 

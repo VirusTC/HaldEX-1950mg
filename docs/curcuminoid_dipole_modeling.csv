@@ -1,0 +1,5 @@
+Compound Name,Chemical Formula,Molecular Weight (g/mol),Dipole Vector mu_x (Debye),Dipole Vector mu_y (Debye),Dipole Vector mu_z (Debye),Net Dipole Moment ||mu|| (Debye),Mean Polarizability alpha_avg (Angstrom^3),Polarizability Tensor alpha_xx,Polarizability Tensor alpha_yy,Polarizability Tensor alpha_zz,Spatial Field Length Radius r (Angstrom)
+Curcumin (Enol Form),C21H20O6,368.38,0.0,2.85,0.0,2.85,42.15,58.4,38.2,29.85,7.25
+Curcumin (Keto Form),C21H20O6,368.38,1.25,3.42,0.45,3.67,39.88,52.1,37.9,29.64,6.85
+Demethoxycurcumin,C20H18O5,338.35,-1.82,2.98,0.21,3.5,38.42,49.6,36.15,29.51,6.92
+Bisdemethoxycurcumin,C19H16O4,308.33,0.0,2.45,0.0,2.45,34.68,44.1,32.8,27.14,6.6
